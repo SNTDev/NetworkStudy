@@ -1,0 +1,33 @@
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.exe.config
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.exe
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.pdb
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.csprojResolveAssemblyReference.cache
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network_Study2___Chat_Client.Form1.resources
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network_Study2___Chat_Client.Properties.Resources.resources
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.csproj.GenerateResource.Cache
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.exe
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.pdb
+F:\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.exe.config
+F:\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.exe
+F:\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.pdb
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.exe.config
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.exe
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.pdb
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.exe
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.pdb
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network_Study2___Chat_Client.Form1.resources
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network_Study2___Chat_Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.csproj.GenerateResource.Cache
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.exe.config
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.exe
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.pdb
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.exe
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.pdb
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.csprojResolveAssemblyReference.cache
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network_Study2___Chat_Client.Form1.resources
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network_Study2___Chat_Client.Properties.Resources.resources
+D:\MINE\Source\NetworkV2\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.csproj.GenerateResource.Cache
+H:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Release\Network Study2 - Chat Client.exe.config
+H:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.exe
+H:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Release\Network Study2 - Chat Client.pdb

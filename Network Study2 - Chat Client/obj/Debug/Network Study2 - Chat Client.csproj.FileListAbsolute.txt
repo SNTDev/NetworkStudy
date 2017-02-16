@@ -1,0 +1,18 @@
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network_Study2___Chat_Client.Form1.resources
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network_Study2___Chat_Client.Properties.Resources.resources
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network Study2 - Chat Client.csproj.GenerateResource.Cache
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Debug\Network Study2 - Chat Client.exe.config
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Debug\Network Study2 - Chat Client.exe
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Debug\Network Study2 - Chat Client.pdb
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network Study2 - Chat Client.exe
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network Study2 - Chat Client.pdb
+D:\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network Study2 - Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Debug\Network Study2 - Chat Client.exe.config
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network Study2 - Chat Client.exe
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network Study2 - Chat Client.pdb
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Debug\Network Study2 - Chat Client.exe
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\bin\Debug\Network Study2 - Chat Client.pdb
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network Study2 - Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network_Study2___Chat_Client.Form1.resources
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network_Study2___Chat_Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MINE\Source\Network Study2 - Chat Server\Network Study2 - Chat Client\obj\Debug\Network Study2 - Chat Client.csproj.GenerateResource.Cache
